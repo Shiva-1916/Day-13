@@ -1,0 +1,79 @@
+.a{
+    display: inline-block;
+      width: 250px;
+      height: 250px;
+      vertical-align: top;
+}
+.b {
+    overflow: scroll;
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+}
+h2 {
+    color: blueviolet;
+}
+
+p:target {
+   background-image: url(https://cdn.kobo.com/book-images/1200d87a-ec1d-4651-826d-52afb86d10f1/353/569/90/False/rich-dad-poor-dad-10.jpg);
+   background-size: cover;
+   color: white;
+   text-shadow: 4px 4px 4px red;
+   box-shadow: 4px 8px 4px violet;
+   outline: none;
+ } 
+
+ p:hover {
+    background-color: aqua;
+ }
+
+.red:hover {
+    background-color: red;
+}
+.blue:hover {
+    background-color: blue;
+}
+.Yellow:hover {
+    background-color: Yellow;
+}
+.purple:hover {
+    background-color: purple;
+}
+.green:hover {
+    background-color: green;
+}
+.brown:hover {
+    background-color: brown;
+}
+.grey:hover {
+    background-color: grey;
+}
+.pink:hover {
+    background-color: pink;
+}
+.black:hover {
+    background-color: black;
+}
+.beige:hover {
+    background-color: beige;
+}
+.navy:hover {
+    background-color: navy;
+}
+.maroon:hover {
+    background-color: maroon;
+}
+.orange:hover {
+    background-color: orange;
+}
+.aqua:hover {
+    background-color: aqua;
+}
+.olive:hover {
+    background-color: olive;
+}
+td {
+    width: 60px;
+    height: 30px;
+    text-align: center;
+}
